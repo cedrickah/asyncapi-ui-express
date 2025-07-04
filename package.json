@@ -1,12 +1,12 @@
 {
-  "name": "ts-node-pckg-starter",
+  "name": "asyncapi-ui-express",
   "version": "0.0.0",
-  "description": "A TypeScript node package starter code",
+  "description": "Swagger-ui-express but for AsyncAPI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cedrick-ah/ts-node-pckg-starter"
+    "url": "https://github.com/cedrickah/asyncapi-ui-express"
   },
-  "author": "cedrick-ah",
+  "author": "cedrickah",
   "license": "MIT",
   "keywords": [
     "starter",
