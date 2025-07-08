@@ -1,6 +1,6 @@
 {
     "name": "asyncapi-ui-express",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Swagger-ui-express but for AsyncAPI",
     "repository": {
         "type": "git",
